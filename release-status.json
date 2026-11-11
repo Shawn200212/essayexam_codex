@@ -1,0 +1,9 @@
+{
+  "checked_on": "2026-11-11",
+  "platform": "codex",
+  "core": "essayexam_codex-core",
+  "behavior_scope": "Bounded synthetic writing checks; no native Claude model or live application certification",
+  "source_sha256": {
+    "essayexam": "a3fe6d32f45de3785ebe3d5398709c864ab3823bb9ce42d3e996f057f5073935"
+  }
+}
